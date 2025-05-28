@@ -1,0 +1,11 @@
+Warning: Permanently added 'c103-153' (ED25519) to the list of known hosts.
+WARNING (10/11/22 19:40:27): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.4912872.hostlist.mdbG5ex8 to get hosts
+starting job on c103-153
+starting job on c106-111
+starting job on c106-153
+starting job on c187-122
+starting job on c187-123
+starting job on c189-113
+starting job on c189-114
+Terminated
